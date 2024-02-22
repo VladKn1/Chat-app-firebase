@@ -11,7 +11,7 @@ This is a simple chat application developed for Android devices. Users can chat 
 
 ## Technologies Used
 
-- Java
+- Kotlin
 - Firebase Realtime Database
 - Firebase Cloud Messaging
 - Glide for image loading
