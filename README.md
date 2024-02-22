@@ -1,4 +1,4 @@
-This is a simple chat application developed for Android devices. Users can chat with their friends in real-time and send messages, photos, and videos. The app also supports group chats and notifications for new messages.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+This is a simple chat application developed for Android devices built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil)  . Users can chat with their friends in real-time and send messages, photos, and videos. The app also supports group chats and notifications for new messages.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## Features
 
@@ -9,11 +9,5 @@ This is a simple chat application developed for Android devices. Users can chat 
 - User profiles
 - Dark mode
 
-## Technologies Used
-
-- Kotlin
-- Firebase Realtime Database
-- Firebase Cloud Messaging
-- Glide for image loading
 
 
